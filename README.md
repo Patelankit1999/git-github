@@ -1,2 +1,2 @@
 # git-github
-IT is Demo
+IT is Demo Purpose
